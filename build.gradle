@@ -9,6 +9,10 @@ dependencies {
     testCompile "org.testng:testng:6.9.9"
 }
 
+if (System.getenv("TEAMCITY_VERSION") != null) {
+    it.ignoreFailures = true
+}
+
 test {
     useTestNG()
     include 'Test.class'
