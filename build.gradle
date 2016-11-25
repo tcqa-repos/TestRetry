@@ -10,7 +10,7 @@ dependencies {
 }
 
 if (System.getenv("TEAMCITY_VERSION") != null) {
-    it.ignoreFailures = true
+    ignoreFailures = true
 }
 
 test {
