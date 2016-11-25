@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestRetry.iml" filepath="$PROJECT_DIR$/.idea/modules/TestRetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestRetry_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestRetry_main.iml" group="TestRetry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestRetry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestRetry_test.iml" group="TestRetry" />
+    </modules>
+  </component>
+</project>
